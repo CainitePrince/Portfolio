@@ -8,6 +8,7 @@ Shader that moves a mesh kind of like a jelly fish.
 **Icosahedron.cs**
 
 Unity script to procedurally generate an icosahedron. 
+This one is a bit different, because the points are duplicated to add additional barycentric coordinates.
 
 **InfiniteVirtualGrid.cs**
  
