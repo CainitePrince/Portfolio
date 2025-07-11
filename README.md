@@ -3,7 +3,7 @@ Code samples for portfolio
 
 **BlobShader.shader**
 
-Shader that moves a mesh kind of like a jelly fish.
+Shader that moves a mesh kind of like a jelly fish using fractal brownian motion. Also creates a procedural texture with filtering.
 
 **Icosahedron.cs**
 
